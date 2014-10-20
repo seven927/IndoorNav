@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IndoorNav</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button">Display</string>
+    <string name="spinner1">Please select start point:</string>
+    <string name="spinner2">Please select end point:</string>
+    <string name="current">Current Position</string>
+    <string name="destination">Destination</string>
+
+</resources>
